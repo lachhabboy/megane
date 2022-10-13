@@ -1,34 +1,32 @@
 [{
-		"name": "What does Dynamic Island do?",
-		"description": "The feature is designed to surface useful information, like when AirPods are connected, or when the device is being charged. It’ll surface a tiny thumbnail of the album art from Apple Music, show when Apple Pay is being accessed, or when the do-not-disturb mode is switched on.",
-		"img": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/09/FcEmrleXEAIuAp5-920x515.jpeg"
+		"name": "Synopsis",
+		"description": "A roboticist designs a lifelike doll programmed to bond with her newly-orphaned niece. However, the robot becomes violently overprotective of her new friend.",
+		"img": "https://upload.wikimedia.org/wikipedia/en/8/84/M3GAN_Teaser_Poster.jpg"
 	},
 	{
-		"name": "Which apps support Dynamic Island?",
-		"description": "Apple showcased a few during the event, but it won’t be the exclusive list. Here’s what we’ve seen so far:
-
-     Phone
-     Music
-     Maps
-     Wallet
-     Voice Memos
-     Clock
-     Lyft
-     In terms of other features, you’ll see headphones (perhaps just AirPods) connectivity, do not disturb mode, silent mode, charging status, and more. It’ll also show sports scores for your favourite teams with team badges on either side of the sensors.",
-		"img": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/09/FcEmrleXEAIuAp5-920x515.jpeg"
+		"name": "Megan (2023 film)",
+		"description": "Megan (stylized as M3GAN or MΞGAN) is an upcoming American science fiction horror film directed by Gerard Johnstone from a screenplay by Akela Cooper and a story by Cooper and James Wan. It stars Amie Donald, Allison Williams, Violet McGraw, Ronny Chieng, and Brian Jordan Alvarez. It is produced by Jason Blum and James Wan under their Blumhouse Productions and Atomic Monster Productions banners, respectively, alongside Divide/Conquer.",
+		"img": "https://upload.wikimedia.org/wikipedia/en/8/84/M3GAN_Teaser_Poster.jpg"
 	}, {
-		"name": "How does Dynamic Island work?",
-		"description": "This is all made possible by the hardware changes within the iPhone 14 Pro and has two components: Firstly, the display design itself is key. The positioning of the cut out has moved and looks neater, while the proximity sensors have moved behind the display – the first time Apple has done this. Secondly, it’s possible (and exclusive to iPhone 14 Pro models) due to the presence of the A16 Bionic chip.",
-		"img": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/09/FcEmrleXEAIuAp5-920x515.jpeg"
+		"name": "Premise",
+		"description": "Gemma (Allison Williams), a brilliant roboticist at a toy company, uses artificial intelligence to develop M3GAN: Model 3 Generative Android a life-like doll programmed to be a child's greatest companion and a parent's greatest ally. After unexpectedly gaining custody of her orphaned niece Katie, Gemma enlists the help of the M3GAN prototype – a decision that has horrific consequences.",
+		"img": "https://upload.wikimedia.org/wikipedia/en/8/84/M3GAN_Teaser_Poster.jpg"
 	}, {
-		"name": "Which phones support Dynamic Island?",
-		"description": "The new Dynamic Island is exclusive to the iPhone 14 Pro and iPhone 14 Pro Max and is made possible by the new positioning of the front-facing camera and Face ID sensors, which are now integrated within the display, rather than as a piece carved out from the top of the handset.",
-		"img": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/09/FcEmrleXEAIuAp5-920x515.jpeg"
+		"name": "Release",
+		"description": "Megan is scheduled to be theatrically released in the United States by Universal on January 13, 2023.",
+		"img": "https://upload.wikimedia.org/wikipedia/en/8/84/M3GAN_Teaser_Poster.jpg"
 	}, {
-		"name": "Apple has turned the unpopular iPhone notch into a versatile new feature, courtesy of an intricate display quirk called Dynamic Island. Here’s everything you need to know about the new addition.",
-		"description": "The feature, which works in tandem with the iPhone 14 Pro-exclusive A16 Bionic chip, is pretty self-explanatory. is one of the bigger changes to Apple’s latest flagship smartphone.
-
-      It is an island at the top of the iPhone display and it is extremely dynamic in the way it interacts with other functionality on the iPhone – whether it’s alerts, notifications or activities.",
-		"img": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/09/FcEmrleXEAIuAp5-920x515.jpeg"
+		"name": "Cast",
+		"description": "Amie Donald as M3GAN
+                                Jenna Davis as the voice of M3GAN
+                                Allison Williams as Gemma
+                                Violet McGraw as Katie
+                                Ronny Chieng
+                                Brian Jordan Alvarez as Cole
+                                Jen Van Epps as Tess
+                                Stephane Garneau-Monten as Kurt
+                                Arlo Green as Ryan
+                                Michael Saccente as Greg",
+		"img": "https://upload.wikimedia.org/wikipedia/en/8/84/M3GAN_Teaser_Poster.jpg"
 	}
 ]
